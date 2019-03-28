@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">mobile_task_1_2_Clicker</string>
+    <string name="less">этот клик отправляет линуса торвальдса обратно в обливион</string>
+    <string name="up">этот клик спавнит одного линуса торвальдса</string>
+    <string name="annuler">set null</string>
+    <string name="count">Кнопка нажата</string>
+    <string name="picc">кликнуть на картиночку, чтобы убить всё вообще</string>
 </resources>
